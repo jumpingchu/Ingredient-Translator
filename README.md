@@ -1,10 +1,10 @@
 # **Ingredient translator**
 
+![ingredient_translator](ingredient_translator.png)
+
 ## 功能
 
 * 輸入食品原料的中文/日文，按下翻譯即可顯示翻譯
-
-![ingredient_translator](ingredient_translator.png)
 
 ## 使用
 
