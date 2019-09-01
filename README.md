@@ -4,6 +4,8 @@
 
 * 輸入食品原料的中文/日文，按下翻譯即可顯示翻譯
 
+![中日翻譯機](ingredient_translator.png)
+
 ## 使用
 
 * python
