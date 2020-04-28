@@ -9,7 +9,6 @@
 ## 使用
 
 * python
-* json
 * tkinter
 * pyperclip
 * pyinstaller
